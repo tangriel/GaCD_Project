@@ -25,7 +25,7 @@ Good luck!
 1. Download the data file to your working directory:
    [Data file](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) (this is the same as above in project description).
 
-2. Download *run\_analysis.R* to your working directory and run it in R.
+2. Download *run\_analysis.R* to your working directory and run it in R. Call `cleanAll` function to perform the whole cleaning procedure.
 
 3. As a result you get *tidy\_UCI.csv* file with the resulting tidy dataset in your working directory.
 
